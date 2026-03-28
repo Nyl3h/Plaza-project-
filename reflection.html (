@@ -1,0 +1,285 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	
+	Harlem Pedestrian Plaza Redesign
+	Midterm Project - AI-Assisted Website Design
+-->
+<html>
+	<head>
+		<title>Harlem Plaza Redesign | Reflection</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>Harlem</strong> <span>Plaza Redesign</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About the Project</a></li>
+							<li><a href="problem.html">The Problem</a></li>
+							<li><a href="site.html">Site / Context</a></li>
+							<li><a href="design.html">Design Options</a></li>
+							<li><a href="proposal.html">Final Proposal</a></li>
+							<li><a href="reflection.html">Reflection</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Reflection on AI Use</h1>
+									</header>
+									<span class="image main"><img src="images/pic11.jpg" alt="Reflection" /></span>
+									
+									<h2>Human-AI Collaboration in Urban Design</h2>
+									<p>This project explored the integration of artificial intelligence tools into the urban design process. The following reflection documents how AI assisted the work and where human judgment remained essential.</p>
+									
+									<hr class="major" />
+									
+									<h2>What AI Helped With</h2>
+									
+									<div class="row">
+										<div class="col-6 col-12-medium">
+											<h3>1. Visualization & Image Generation</h3>
+											<p><strong>AI Tool:</strong> DALL-E</p>
+											<p>AI was instrumental in generating photorealistic renderings of the proposed redesign. By providing detailed prompts based on site photographs from Google Maps, DALL-E created compelling visualizations that helped communicate design concepts.</p>
+											<p><strong>Prompt Example:</strong><br />
+											<em>"Transform this Harlem plaza into a vibrant community space with native shade trees, integrated seating walls, permeable paving, solar-powered lighting, and flexible event space. Include diverse community members using the space. Photorealistic architectural rendering, golden hour lighting."</em></p>
+										</div>
+										<div class="col-6 col-12-medium">
+											<h3>2. Research & Precedent Analysis</h3>
+											<p><strong>AI Tool:</strong> ChatGPT / Claude</p>
+											<p>AI tools helped summarize urban design principles, explain plaza design precedents, and organize research on NYC DOT projects. This accelerated the literature review process and provided structured information about best practices.</p>
+										</div>
+										<div class="col-6 col-12-medium">
+											<h3>3. Content Organization</h3>
+											<p><strong>AI Tool:</strong> ChatGPT</p>
+											<p>AI assisted in organizing project content, suggesting section structures, and improving writing clarity. It helped draft initial versions of problem statements and user analyses that were later refined with human input.</p>
+										</div>
+										<div class="col-6 col-12-medium">
+											<h3>4. Code Structure</h3>
+											<p><strong>AI Tool:</strong> GitHub Copilot</p>
+											<p>AI coding assistance helped with HTML structure and CSS adjustments, ensuring the website maintained responsive design standards while adapting the HTML5UP template for project-specific content.</p>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>What Required Human Decision-Making</h2>
+									
+									<div class="box">
+										<h3>Critical Design Decisions</h3>
+										<p>While AI generated visual options, human judgment was essential for:</p>
+										<ul>
+											<li><strong>Site Selection:</strong> Choosing Montefiore Square based on personal knowledge of Harlem and academic interest in the neighborhood</li>
+											<li><strong>Problem Definition:</strong> Identifying which issues (safety, comfort, accessibility) were most relevant to this specific community</li>
+											<li><strong>Design Selection:</strong> Evaluating the three design options and selecting the Balanced Redesign based on realistic assessment of community needs and funding constraints</li>
+											<li><strong>Cultural Sensitivity:</strong> Ensuring the design respects Harlem's cultural identity and serves existing residents rather than displacing them</li>
+										</ul>
+									</div>
+									
+									<div class="box">
+										<h3>Prompt Engineering & Refinement</h3>
+										<p>Creating effective AI prompts required human expertise:</p>
+										<ul>
+											<li>Understanding what details to include (materials, lighting, human activity)</li>
+											<li>Specifying architectural rendering styles for professional presentation</li>
+											<li>Iterating on prompts when initial outputs were unrealistic or inappropriate</li>
+											<li>Curating which AI-generated images to use based on design feasibility</li>
+										</ul>
+									</div>
+									
+									<div class="box">
+										<h3>Ethical & Practical Evaluation</h3>
+										<p>Human judgment was necessary to evaluate:</p>
+										<ul>
+											<li>Budget realism and implementation feasibility</li>
+											<li>Potential community impacts and gentrification concerns</li>
+											<li>Maintenance requirements and long-term sustainability</li>
+											<li>Alignment with NYC DOT standards and regulations</li>
+										</ul>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>AI Prompt Log</h2>
+									
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Iteration</th>
+													<th>Prompt</th>
+													<th>Result</th>
+													<th>Human Correction</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>1</td>
+													<td>"Make this plaza better"</td>
+													<td>Generic improvements, unrealistic structures</td>
+													<td>Added specific design elements and context</td>
+												</tr>
+												<tr>
+													<td>2</td>
+													<td>"Add trees and seating to Harlem plaza"</td>
+													<td>Better, but trees incorrectly placed</td>
+													<td>Specified native species and shade requirements</td>
+												</tr>
+												<tr>
+													<td>3</td>
+													<td>"Include community members"</td>
+													<td>People looked artificial</td>
+													<td>Adjusted lighting and activity descriptions</td>
+												</tr>
+												<tr>
+													<td>4 (Final)</td>
+													<td>Detailed prompt with materials, lighting, context</td>
+													<td>Professional architectural rendering</td>
+													<td>Selected best variation for presentation</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Lessons Learned</h2>
+									
+									<h3>Strengths of AI in Design</h3>
+									<ul>
+										<li><strong>Rapid Visualization:</strong> AI can quickly explore design possibilities that would take hours to sketch</li>
+										<li><strong>Communication:</strong> Photorealistic renderings help non-designers understand proposals</li>
+										<li><strong>Inspiration:</strong> AI outputs can suggest unexpected solutions or combinations</li>
+										<li><strong>Accessibility:</strong> Lower barrier to entry for design visualization</li>
+									</ul>
+									
+									<h3>Limitations of AI in Design</h3>
+									<ul>
+										<li><strong>Lack of Context:</strong> AI doesn't understand community history, social dynamics, or political constraints</li>
+										<li><strong>Physical Impossibilities:</strong> Generated images may show structurally unsound or impractical elements</li>
+										<li><strong>Generic Solutions:</strong> Without specific prompting, AI tends toward generic "nice" spaces</li>
+										<li><strong>Ethical Blindness:</strong> AI cannot evaluate social equity or gentrification impacts</li>
+									</ul>
+									
+									<hr class="major" />
+									
+									<h2>Conclusion</h2>
+									<p>AI proved to be a powerful tool for visualization and research acceleration in this urban design project. However, meaningful design still requires human expertise in problem definition, cultural sensitivity, ethical evaluation, and practical implementation. The most successful outcomes emerged from iterative collaboration—using AI to expand possibilities while applying human judgment to select, refine, and contextualize solutions.</p>
+									
+									<p>This project demonstrates that AI is best understood as a design assistant rather than a replacement for human designers. Future urban design education should emphasize AI literacy while reinforcing the irreplaceable value of site observation, community engagement, and ethical reasoning.</p>
+									
+									<ul class="actions">
+										<li><a href="index.html" class="button next">Return Home</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Clear" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">student@university.edu</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(000) 000-0000 x12387</span>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Location</h3>
+										<span>1234 Somewhere Road #5432<br />
+										New York, NY 00000<br />
+										United States of America</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Harlem Plaza Redesign Project</li>
+								<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>Midterm Project - AI-Assisted Design</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
