@@ -1,0 +1,286 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	
+	Harlem Pedestrian Plaza Redesign
+	Midterm Project - AI-Assisted Website Design
+-->
+<html>
+	<head>
+		<title>Harlem Plaza Redesign | Final Proposal</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>Harlem</strong> <span>Plaza Redesign</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About the Project</a></li>
+							<li><a href="problem.html">The Problem</a></li>
+							<li><a href="site.html">Site / Context</a></li>
+							<li><a href="design.html">Design Options</a></li>
+							<li><a href="proposal.html">Final Proposal</a></li>
+							<li><a href="reflection.html">Reflection</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main" class="alt">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Final Proposal</h1>
+									</header>
+									<span class="image main"><img src="images/pic11.jpg" alt="Final Proposal" /></span>
+									
+									<h2>Selected Design: The Balanced Redesign</h2>
+									<p>After careful consideration of community needs, budget constraints, and long-term sustainability, the <strong>Balanced Redesign</strong> option has been selected as the final proposal. This approach offers the optimal combination of immediate impact, cost-effectiveness, and future flexibility.</p>
+									
+									<hr class="major" />
+									
+									<h2>AI-Generated Redesign Visualization</h2>
+									<p>The following images were generated using DALL-E AI, based on Google Maps street view references of Montefiore Square. The AI prompts were carefully crafted to transform existing site conditions into the proposed redesign vision.</p>
+									
+									<div class="row">
+										<div class="col-6 col-12-medium">
+											<h3>Current Condition (Reference)</h3>
+											<span class="image fit"><img src="images/plaza/current-1.jpg" alt="Current Plaza Condition" /></span>
+											<p><em>Source: Google Maps street view of Montefiore Square showing existing hardscape and minimal amenities.</em></p>
+										</div>
+										<div class="col-6 col-12-medium">
+											<h3>Proposed Redesign (AI-Generated)</h3>
+											<span class="image fit"><img src="images/plaza/redesign-1.jpg" alt="AI-Generated Redesign" /></span>
+											<p><em>AI Prompt: "Transform this Harlem plaza into a vibrant community space with native shade trees, integrated seating walls, permeable paving, solar-powered lighting, and flexible event space. Include diverse community members using the space. Photorealistic architectural rendering, golden hour lighting."</em></p>
+										</div>
+									</div>
+									
+									<div class="row">
+										<div class="col-6 col-12-medium">
+											<h3>Current View from Amsterdam Ave</h3>
+											<span class="image fit"><img src="images/plaza/current-2.jpg" alt="Current Amsterdam Avenue View" /></span>
+											<p><em>Source: Google Maps showing exposed conditions along Amsterdam Avenue.</em></p>
+										</div>
+										<div class="col-6 col-12-medium">
+											<h3>Proposed Avenue Edge (AI-Generated)</h3>
+											<span class="image fit"><img src="images/plaza/redesign-2.jpg" alt="AI-Generated Avenue Redesign" /></span>
+											<p><em>AI Prompt: "Redesign this Harlem plaza edge along Amsterdam Avenue with bioswales for stormwater management, tree-lined pedestrian buffer, outdoor seating for nearby cafes, improved lighting, and clear pedestrian crossings. Maintain urban context with historic buildings. Photorealistic rendering."</em></p>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Design Elements</h2>
+									
+									<div class="row">
+										<div class="col-4 col-12-medium">
+											<h3>Green Infrastructure</h3>
+											<ul>
+												<li>12 new native shade trees</li>
+												<li>Rain gardens and bioswales</li>
+												<li>Permeable paving surfaces</li>
+												<li>Drought-tolerant plantings</li>
+											</ul>
+										</div>
+										<div class="col-4 col-12-medium">
+											<h3>Comfort & Safety</h3>
+											<ul>
+												<li>Integrated seating walls</li>
+												<li>Modular movable furniture</li>
+												<li>LED lighting with smart controls</li>
+												<li>Emergency call boxes</li>
+											</ul>
+										</div>
+										<div class="col-4 col-12-medium">
+											<h3>Community Features</h3>
+											<ul>
+												<li>Flexible event space (2,000 sq ft)</li>
+												<li>Outdoor exercise equipment</li>
+												<li>Community notice boards</li>
+												<li>Public art installation areas</li>
+											</ul>
+										</div>
+									</div>
+									
+									<hr class="major" />
+									
+									<h2>Implementation Strategy</h2>
+									
+									<h3>Phase 1: Quick Wins (Months 1-6)</h3>
+									<ul>
+										<li>Install temporary shade structures</li>
+										<li>Add movable seating and tables</li>
+										<li>Improve lighting in dark zones</li>
+										<li>Paint pedestrian crossings</li>
+									</ul>
+									
+									<h3>Phase 2: Core Improvements (Months 6-18)</h3>
+									<ul>
+										<li>Tree planting and establishment</li>
+										<li>Installation of permanent seating walls</li>
+										<li>Paving improvements</li>
+										<li>Stormwater infrastructure</li>
+									</ul>
+									
+									<h3>Phase 3: Programming Activation (Ongoing)</h3>
+									<ul>
+										<li>Community events and markets</li>
+										<li>Partnerships with local businesses</li>
+										<li>Seasonal programming</li>
+										<li>Maintenance and monitoring</li>
+									</ul>
+									
+									<hr class="major" />
+									
+									<h2>Budget Estimate</h2>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Category</th>
+													<th>Cost</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Site Preparation & Demolition</td>
+													<td>$75,000</td>
+												</tr>
+												<tr>
+													<td>Hardscape & Paving</td>
+													<td>$200,000</td>
+												</tr>
+												<tr>
+													<td>Landscape & Irrigation</td>
+													<td>$150,000</td>
+												</tr>
+												<tr>
+													<td>Lighting & Electrical</td>
+													<td>$100,000</td>
+												</tr>
+												<tr>
+													<td>Furniture & Amenities</td>
+													<td>$75,000</td>
+												</tr>
+												<tr>
+													<td>Contingency (20%)</td>
+													<td>$120,000</td>
+												</tr>
+												<tr>
+													<td><strong>Total</strong></td>
+													<td><strong>$720,000</strong></td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+									
+									<ul class="actions">
+										<li><a href="reflection.html" class="button next">Read Reflection</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Clear" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">student@university.edu</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(000) 000-0000 x12387</span>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Location</h3>
+										<span>1234 Somewhere Road #5432<br />
+										New York, NY 00000<br />
+										United States of America</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="#" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="#" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Harlem Plaza Redesign Project</li>
+								<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								<li>Midterm Project - AI-Assisted Design</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
